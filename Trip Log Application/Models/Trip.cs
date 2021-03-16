@@ -20,7 +20,7 @@ namespace Trip_Log_Application.Models
 
         public string AccomodationPhone { get; set; }
 
-        public string AccomodationEMail { get; set; }
+        public string AccomodationEmail { get; set; }
 
         public string ThingToDo1 { get; set; }
 
